@@ -1,4 +1,4 @@
-# Branch Architecture and Guidelines
+# Branch Naming and Guidelines
 ## Naming
 Branches should be named in the following format: `{TYPE}/{COMMIT}-{YEAR}`.
 The `{TYPE}` should be what type of contribution will your branch provide, such as: `feat`, `fix`, `patch`, `docs`, `refactor`, etc.

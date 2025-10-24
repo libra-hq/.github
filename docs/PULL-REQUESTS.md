@@ -1,7 +1,7 @@
 # Pull Requests
 
 > [!TIP]
-> For branch names please refer to [BRANCHES.md](docs/BRANCHES.md)
+> For branch names please refer to [BRANCHES.md](BRANCHES.md)
 
 Pull Requests (PRs) should offer meaningful contributions that improve the project. Please avoid sending PRs that don’t add real value.
 

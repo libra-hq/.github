@@ -8,3 +8,7 @@ Examples of branch names are:
 * `refactor/migrate-codebase-to-rust-2025`
 * `patch/fix-hydration-error`
 * `fix/update-ouath-logic`
+
+# `dev` Branch
+Most, if not all, repositories in this organization will have a branch named `dev`, this is the development branch which is used for pre-production code.
+
